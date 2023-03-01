@@ -6,3 +6,4 @@ Thank you for using Fotogency See the "public" folder, you will find everything 
 Get the figma design file here:
 
 <!-- [https://www.figma.com/community/file/iVtJJapAlfDQJLcDedSwMm] -->
+# TheHemPixels
